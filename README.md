@@ -1,6 +1,6 @@
 # Sara Sardar
 
-AI Systems Auditor and Senior Data Scientist specializing in LLM/RAG
+AI Reliability Consultant and Senior Data Scientist specializing in LLM/RAG
 reliability, NLP, semantic search and data engineering.
 
 My public repositories include earlier machine-learning and research projects.
