@@ -1,6 +1,6 @@
 **Mathematician · AI Engineer · Data Scientist**
 
-I turn messy, unstructured documents into reliable data and build LLM applications on top of it that give answers you can actually trace back to a source.
+I turn messy, unstructured documents into reliable data and build LLM applications on top of it that give answers you can trace back to a source.
 
 With a B.Sc. in Mathematics and 5+ years of academic and professional experience in AI,
 I care about systems that hold up: validated outputs, tests, evaluation metrics and clear limits.
