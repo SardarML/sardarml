@@ -1,5 +1,3 @@
-# Hi, I'm Sara
-
 **Mathematician · AI Engineer · Data Scientist**
 
 I turn messy, unstructured documents into reliable data and build LLM applications on top of it that give answers you can actually trace back to a source.
